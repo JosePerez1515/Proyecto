@@ -1,0 +1,5 @@
+c:\users\administrator.win\documents\visual studio 2012\Projects\StartHere\PrimerJavaScript\PrimerJavaScript\bin\PrimerJavaScript.dll
+c:\users\administrator.win\documents\visual studio 2012\Projects\StartHere\PrimerJavaScript\PrimerJavaScript\bin\PrimerJavaScript.pdb
+c:\users\administrator.win\documents\visual studio 2012\Projects\StartHere\PrimerJavaScript\PrimerJavaScript\obj\Debug\PrimerJavaScript.csprojResolveAssemblyReference.cache
+c:\users\administrator.win\documents\visual studio 2012\Projects\StartHere\PrimerJavaScript\PrimerJavaScript\obj\Debug\PrimerJavaScript.dll
+c:\users\administrator.win\documents\visual studio 2012\Projects\StartHere\PrimerJavaScript\PrimerJavaScript\obj\Debug\PrimerJavaScript.pdb
